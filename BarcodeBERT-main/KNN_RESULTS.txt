@@ -1,0 +1,5 @@
+
+JanusConvNova 	 43.1978
+ConvNovaLong 	 70.3600
+ConvNovaLong 	 42.4264
+ConvNovaLong 	 70.3600
